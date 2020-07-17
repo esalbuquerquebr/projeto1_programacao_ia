@@ -2,10 +2,11 @@
 ### Disciplina: Inteligência Artificial
 ##### IFES | 2020/1
 
-Código-fonte: ./scr/**
-Relatório: ./rel/relatorio.pdf
-Imagens: ./rel/imgs/**
-Dados gerados: ./rel/csv/**
+## Organização
+-Código-fonte: ./scr/**
+-Relatório: ./rel/relatorio.pdf
+-Gráficos: ./rel/imgs/**
+-Dados gerados: ./rel/csv/**
 
 ### Instruções para executar:
 
