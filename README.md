@@ -3,10 +3,10 @@
 ##### IFES | 2020/1
 
 ## Organização
--Código-fonte: ./scr/**
--Relatório: ./rel/relatorio.pdf
--Gráficos: ./rel/imgs/**
--Dados gerados: ./rel/csv/**
+* Código-fonte: ./scr/**
+* Relatório: ./rel/relatorio.pdf
+* Gráficos: ./rel/imgs/**
+* Dados gerados: ./rel/csv/**
 
 ### Instruções para executar:
 
