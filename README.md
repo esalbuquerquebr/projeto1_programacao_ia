@@ -1,4 +1,4 @@
-# Projeto 1 de Programaço 1 - Algoritmos de busca/otimização
+# Projeto 1 de Programação - Algoritmos de busca/otimização
 ### Disciplina: Inteligência Artificial
 ##### IFES | 2020/1
 
